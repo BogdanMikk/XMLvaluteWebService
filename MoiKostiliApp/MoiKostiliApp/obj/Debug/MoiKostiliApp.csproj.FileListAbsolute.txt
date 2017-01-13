@@ -1,0 +1,6 @@
+c:\users\наташа\documents\visual studio 2013\Projects\MoiKostiliApp\MoiKostiliApp\bin\Debug\MoiKostiliApp.exe.config
+c:\users\наташа\documents\visual studio 2013\Projects\MoiKostiliApp\MoiKostiliApp\bin\Debug\MoiKostiliApp.exe
+c:\users\наташа\documents\visual studio 2013\Projects\MoiKostiliApp\MoiKostiliApp\bin\Debug\MoiKostiliApp.pdb
+c:\users\наташа\documents\visual studio 2013\Projects\MoiKostiliApp\MoiKostiliApp\obj\Debug\MoiKostiliApp.csprojResolveAssemblyReference.cache
+c:\users\наташа\documents\visual studio 2013\Projects\MoiKostiliApp\MoiKostiliApp\obj\Debug\MoiKostiliApp.exe
+c:\users\наташа\documents\visual studio 2013\Projects\MoiKostiliApp\MoiKostiliApp\obj\Debug\MoiKostiliApp.pdb
