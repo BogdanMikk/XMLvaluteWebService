@@ -83,6 +83,8 @@ namespace MoiKostiliApp
                 //Console.WriteLine(EUR);
                 //Console.WriteLine(UAH);
                 //Console.ReadKey();
+                
+                //USING STANDART METHODS
                 string aa = "a";
                 RBKServise.DailyInfo di = new RBKServise.DailyInfo();
                 DateTime thisDay = DateTime.Today;
@@ -97,17 +99,14 @@ namespace MoiKostiliApp
                         { 
                                 Vname = x.Descendants("VchCode").First().Value,
                                 Kurs = x.Descendants("Vcurs").First().Value
-                                //UAH = x.Descendants("VchCode").First().Value == "UAH"
                         };
                 foreach (var kur in a)
                 {
                     aa = kur.Kurs;
-                    //Console.WriteLine(aa);
-                    //Console.WriteLine("{0}", kur.Kurs);
                 }
                 Console.WriteLine(aa);
-
                 Console.ReadKey();
+                //USING STANDART METHODS
             }
         }
     }
